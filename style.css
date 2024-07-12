@@ -1,0 +1,24 @@
+.head,
+.links {
+    text-align: center;
+    font-family: Verdana, Tahoma, Arial, "Times New Roman";
+}
+
+.head {
+    background-color: aliceblue;
+    color: black;
+    font-size: 50px;
+}
+
+.links {
+    font-size: 30px;
+    color: rgb(182, 70, 199);
+    background-color: rgb(138, 43, 226, 0.3);
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 700px;
+}
