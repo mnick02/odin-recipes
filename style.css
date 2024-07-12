@@ -1,10 +1,10 @@
-.head,
+#head,
 .links {
     text-align: center;
     font-family: Verdana, Tahoma, Arial, "Times New Roman";
 }
 
-.head {
+#head {
     background-color: aliceblue;
     color: black;
     font-size: 50px;
