@@ -10,15 +10,39 @@
     font-size: 50px;
 }
 
+#pizza-head,
+.text,
+.headers {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pizza-head {
+    background-color: rgb(246, 65, 65);
+    color: antiquewhite;
+    font-size: 50px;
+}
+
 .links {
     font-size: 30px;
     color: rgb(182, 70, 199);
     background-color: rgb(138, 43, 226, 0.3);
 }
 
-img {
+#gif {
     margin-left: auto;
     margin-right: auto;
     height: auto;
     width: 700px;
+}
+
+.text {
+    text-align: left;
+    font-size: 15px;
+}
+
+.headers {
+    background-color: rgb(247, 225, 181);
+    font-weight: 600;
+    color: rgb(136, 137, 138);
 }
