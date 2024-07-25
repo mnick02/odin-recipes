@@ -1,6 +1,16 @@
 body {
-    background-color: rgba(250, 94, 66, 0.42);
-    font-family: sans-serif;
+    background-color: #adbbda;
+    font-family: Monospace, sans-serif;
+}
+
+.title {
+    padding: 8px;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+    border: 3px dotted #3d52a0;
+    background: #7091e640;
 }
 
 #head,
