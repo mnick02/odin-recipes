@@ -39,9 +39,13 @@ body {
 }
 
 .links {
-    font-size: 30px;
-    color: rgb(182, 70, 199);
-    background-color: rgb(138, 43, 226, 0.3);
+    text-align: left;
+    padding: 16px 8px;
+    font-size: 25px;
+    color: #3d52a0;
+    width: auto;
+    background-color: rgba(250, 235, 215, 0.249);
+    box-sizing: border-box;
 }
 
 #gif {
