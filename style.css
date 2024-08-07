@@ -11,6 +11,7 @@ body {
     text-align: center;
     border: 3px dotted #3d52a0;
     background: #7091e640;
+    box-sizing: border-box;
 }
 
 #head,
@@ -44,8 +45,10 @@ body {
     font-size: 25px;
     color: #3d52a0;
     width: auto;
+    border: 3px dotted ;
     background-color: rgba(250, 235, 215, 0.249);
     box-sizing: border-box;
+    margin: 20px;
 }
 
 #gif {
